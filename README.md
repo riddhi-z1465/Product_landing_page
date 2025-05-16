@@ -34,5 +34,5 @@ To view the landing page locally:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/pizzahat-landing-page.git
+   git clone https://github.com/riddhi-z1465/Product_landing_page.git
    cd pizzahat-landing-page
